@@ -1,0 +1,193 @@
+[
+    {
+      "idMeal": "52874",
+      "strMeal": "Beef and Mustard Pie",
+      "strCategory": "Beef",
+      "strArea": "British",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+      "price": 10,
+      "quantity": 15,
+      "orders": 5,
+      "details": "A classic British beef pie with a mustard twist."
+    },
+    {
+      "idMeal": "52891",
+      "strMeal": "Blackberry Fool",
+      "strCategory": "Dessert",
+      "strArea": "British",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+      "price": 8,
+      "quantity": 18,
+      "orders": 3,
+      "details": "A delightful British dessert with blackberries and cream."
+    },
+    {
+      "idMeal": "52904",
+      "strMeal": "Beef Bourguignon",
+      "strCategory": "Beef",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg",
+      "price": 12,
+      "quantity": 10,
+      "orders": 8,
+      "details": "A French classic, slow-cooked beef stew with red wine."
+    },
+    {
+      "idMeal": "52913",
+      "strMeal": "Brie wrapped in prosciutto & brioche",
+      "strCategory": "Side",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg",
+      "price": 16,
+      "quantity": 20,
+      "orders": 10,
+      "details": "A French appetizer with brie cheese, prosciutto, and brioche."
+    },
+    {
+      "idMeal": "52914",
+      "strMeal": "Boulangère Potatoes",
+      "strCategory": "Side",
+      "strArea": "French",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+      "price": 14,
+      "quantity": 8,
+      "orders": 12,
+      "details": "French-style sliced potatoes with onions, garlic, and stock."
+    },
+    {
+      "idMeal": "52928",
+      "strMeal": "BeaverTails",
+      "strCategory": "Dessert",
+      "strArea": "Canadian",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg",
+      "price": 10,
+      "quantity": 12,
+      "orders": 7,
+      "details": "A Canadian dessert with deep-fried dough shaped like a beaver's tail."
+    },
+    {
+      "idMeal": "52959",
+      "strMeal": "Baked salmon with fennel & tomatoes",
+      "strCategory": "Seafood",
+      "strArea": "British",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+      "price": 18,
+      "quantity": 16,
+      "orders": 9,
+      "details": "Baked salmon served with fennel and tomato garnish."
+    },
+    {
+      "idMeal": "52961",
+      "strMeal": "Budino Di Ricotta",
+      "strCategory": "Dessert",
+      "strArea": "Italian",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+      "price": 12,
+      "quantity": 14,
+      "orders": 4,
+      "details": "An Italian dessert made with ricotta cheese."
+    },
+    {
+      "idMeal": "52965",
+      "strMeal": "Breakfast Potatoes",
+      "strCategory": "Breakfast",
+      "strArea": "Canadian",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+      "price": 9,
+      "quantity": 5,
+      "orders": 2,
+      "details": "Canadian-style breakfast potatoes with herbs and spices."
+    },
+    {
+      "idMeal": "52995",
+      "strMeal": "BBQ Pork Sloppy Joes",
+      "strCategory": "Pork",
+      "strArea": "American",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+      "price": 11,
+      "quantity": 11,
+      "orders": 7,
+      "details": "American-style BBQ pork sandwiches."
+    },
+    {
+      "idMeal": "53013",
+      "strMeal": "Big Mac",
+      "strCategory": "Beef",
+      "strArea": "American",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "price": 15,
+      "quantity": 20,
+      "orders": 19,
+      "details": "A classic American fast-food burger."
+    },
+    {
+      "idMeal": "53068",
+      "strMeal": "Beef",
+      "strCategory": "Lamb",
+      "strArea": "Filipino",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg",
+      "price": 13,
+      "quantity": 6,
+      "orders": 5,
+      "details": "A Filipino dish made with beef."
+    },
+    {
+      "idMeal": "53070",
+      "strMeal": "Beef Caldereta",
+      "strCategory": "Beef",
+      "strArea": "Filipino",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg",
+      "price": 11,
+      "quantity": 9,
+      "orders": 7,
+      "details": "A Filipino spicy beef stew."
+    },
+    {
+      "idMeal": "53076",
+      "strMeal": "Bread omelette",
+      "strCategory": "Breakfast",
+      "strArea": "Indian",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+      "price": 8,
+      "quantity": 3,
+      "orders": 1,
+      "details": "An Indian breakfast omelette with bread."
+    },
+    {
+      "idMeal": "not-Given",
+      "strMeal": "chicken salad",
+      "strDrinkAlternate": "not-Given",
+      "strCategory": "Salad",
+      "strArea": "British",
+      "strMealThumb": "https://images.immediate.co.uk/production/volatile/sites/30/2023/06/Ultraprocessed-food-58d54c3.jpg?quality=90&webp=true&resize=440,400",
+      "price": 14,
+      "quantity": 12,
+      "orders": 6,
+      "details": "A classic British chicken salad."
+    },
+    {
+      "idMeal": "not-Given",
+      "strMeal": "chicken salad",
+      "strDrinkAlternate": "not-Given",
+      "strCategory": "Salad",
+      "strArea": "British",
+      "strMealThumb": "https://images.immediate.co.uk/production/volatile/sites/30/2023/06/Ultraprocessed-food-58d54c3.jpg?quality=90&webp=true&resize=440,400",
+      "price": 14,
+      "quantity": 12,
+      "orders": 6,
+      "details": "A classic British chicken salad."
+    },
+    {
+      "idMeal": "not-Given",
+      "strMeal": "Beef salad",
+      "strDrinkAlternate": "not-Given",
+      "strCategory": "Beef",
+      "strArea": "British",
+      "strMealThumb": "https://images.immediate.co.uk/production/volatile/sites/30/2023/06/Ultraprocessed-food-58d54c3.jpg?quality=90&webp=true&resize=440,400",
+      "price": 14,
+      "quantity": 12,
+      "orders": 6,
+      "details": "A hearty British salad with tender beef slices."
+    }
+  ]
+  
